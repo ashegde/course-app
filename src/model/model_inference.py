@@ -10,7 +10,6 @@ from pathlib import Path
 from loguru import logger
 
 from config import model_settings
-from model.pipeline.model import build_model
 
 
 class ModelInferenceService:
