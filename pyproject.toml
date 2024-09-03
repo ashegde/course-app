@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "module2"
+name = "course-app"
 version = "0.1.0"
 description = ""
 authors = ["Arun Hegde <ashegde13@gmail.com>"]
